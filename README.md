@@ -48,8 +48,8 @@ python main.py --dataset restaurant --aggregator 'sum' --n_epochs 20 --neighbor_
 We build our model based on the implementations of KGCN (https://github.com/hwwang55/KGCN) and NGCF (https://github.com/delldu/NGCF).
 
 ## About Datasets
-Hyperlink: https://pan.baidu.com/s/1As8RVt-yfA0qnl9VorfLmA 
-Code:h96j
+Hyperlink: https://pan.baidu.com/s/1As8RVt-yfA0qnl9VorfLmA  
+Password:h96j  
 
 ## Citation 
 If you would like to use our code, please cite:
