@@ -49,7 +49,7 @@ We build our model based on the implementations of KGCN (https://github.com/hwwa
 
 ## About Datasets
 Hyperlink: https://pan.baidu.com/s/1As8RVt-yfA0qnl9VorfLmA  
-Password:h96j  
+Password: h96j  
 
 ## Citation 
 If you would like to use our code, please cite:
